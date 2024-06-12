@@ -4,7 +4,7 @@
     "name": "Santander",
     "selectedTokenSets": {
       "Santander": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:a8d6fa1ba0b98df897227586008a849251730a48,",
@@ -293,7 +293,7 @@
     "name": "Fisker",
     "selectedTokenSets": {
       "Fisker": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:e3288176f0c61c2b58632bb783d2664f6df63a3b,",
@@ -552,7 +552,7 @@
     "name": "Hyundai",
     "selectedTokenSets": {
       "Hyundai": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:cfcd18c0396bcabf8eaddcc9fa04071db1d10814,",
@@ -801,7 +801,7 @@
     "name": "Nissan",
     "selectedTokenSets": {
       "Nissan": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:4f3591107e98db21f4bf150bbbb206cdf4511419,",
@@ -1042,7 +1042,7 @@
     "name": "Voyah",
     "selectedTokenSets": {
       "Voyah": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:cf040db4366690082f67127b69050deef614869b,",
@@ -1283,7 +1283,7 @@
     "name": "Nio",
     "selectedTokenSets": {
       "Nio": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:03340bd3711c2c4d1e7a5f7c0274289e7f11f06b,",
@@ -1532,7 +1532,7 @@
     "name": "Volvo",
     "selectedTokenSets": {
       "Volvo": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:7f8f61b48faa0e4e7d039bf2c43a16833e79018d,",
@@ -1773,7 +1773,7 @@
     "name": "Lucid",
     "selectedTokenSets": {
       "Lucid": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:b6d7dfa32fed0f7420e36c22d332be6f95317bc1,",
@@ -2013,7 +2013,7 @@
     "name": "Ford",
     "selectedTokenSets": {
       "Ford": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:46fc502e2d485caeb291aeb422e2f97d021f8ca2,",
@@ -2254,7 +2254,7 @@
     "name": "Kia",
     "selectedTokenSets": {
       "Kia": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:09219a4e2f2e328d875b2e1fc690110308344481,",
@@ -2500,7 +2500,7 @@
     "name": "Lynk",
     "selectedTokenSets": {
       "Lynk": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:18aa05c5a2dafcc459a80420699ef9de8c4e785b,",
@@ -2741,7 +2741,7 @@
     "name": "GM",
     "selectedTokenSets": {
       "GM": "enabled",
-      "VW": "disabled"
+      "Test": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary": "S:c1bcddbe6ad7a986a9853b8f6604466263783392,",

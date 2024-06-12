@@ -1,0 +1,112 @@
+{
+  "brand": {
+    "primary": {
+      "value": "#071770",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#979CA4",
+      "type": "color"
+    },
+    "tertiary": {
+      "value": "#DBDBDB",
+      "type": "color"
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color"
+    }
+  },
+  "state": {
+    "success": {
+      "value": "#029F12",
+      "type": "color"
+    },
+    "error": {
+      "value": "#CA0E23",
+      "type": "color"
+    },
+    "focus": {
+      "value": "#395FA7",
+      "type": "color"
+    }
+  },
+  "line": {
+    "base": {
+      "value": "#828282",
+      "type": "color"
+    }
+  },
+  "container": {
+    "bg": {
+      "value": "#0000",
+      "type": "color"
+    },
+    "fg": {
+      "value": "#0000",
+      "type": "color"
+    },
+    "subtle": {
+      "1": {
+        "value": "#DBDBDB",
+        "type": "color"
+      },
+      "2": {
+        "value": "#DBDBEC",
+        "type": "color"
+      },
+      "3": {
+        "value": "#AEC6F3",
+        "type": "color"
+      },
+      "tint-1": {
+        "value": "#809DD5",
+        "type": "color"
+      },
+      "tint-2": {
+        "value": "#809DD5",
+        "type": "color"
+      }
+    },
+    "table": {
+      "primary": {
+        "bg": {
+          "value": "#0000",
+          "type": "color"
+        },
+        "text": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "line": {
+          "value": "#828282",
+          "type": "color"
+        },
+        "expanded": {
+          "bg": {
+            "value": "#f9f9f9",
+            "type": "color"
+          },
+          "text": {
+            "value": "#050505",
+            "type": "color"
+          },
+          "line": {
+            "value": "#d5d3d3",
+            "type": "color"
+          }
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "#fdfdfd",
+          "type": "color"
+        },
+        "line": {
+          "value": "container.table.primary.expanded.line",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
